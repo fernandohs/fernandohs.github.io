@@ -1,0 +1,154 @@
+{
+    "basic_info": {
+      "name": "Fernando Herrera",
+      "titles": [ "Full Stack Developer", "Front-end Developer", "Back-end Developer" ],
+      "social": [
+
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Git",
+          "class": "devicon-git-plain  ",
+          "level": "95"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain  ",
+          "level": "95"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain  ",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain  ",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain  ",
+          "level": "95"
+        },
+        {
+          "name": "Bulma",
+          "class": "devicon-bulma-plain  ",
+          "level": "80"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain  ",
+          "level": "80"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain  ",
+          "level": "80"
+        },
+        {
+          "name": "Bulma",
+          "class": "devicon-bulma-plain  ",
+          "level": "80"
+        },
+{
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain  ",
+          "level": "70"
+        },{
+          "name": "Jquery",
+          "class": "devicon-jquery-plain  ",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain  ",
+          "level": "90"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain  ",
+          "level": "90"
+        },
+
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original  ",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain  ",
+          "level": "65"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain  ",
+          "level": "100"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain  ",
+          "level": "60"
+        },
+         {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "SQL Server",
+          "class": "devicon-microsoftsqlserver-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain  ",
+          "level": "60"
+        },
+         {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain  ",
+          "level": "60"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain  ",
+          "level": "60"
+        },
+         {
+          "name": "FeathersJs",
+          "class": "devicon-feathersjs-original  ",
+          "level": "60"
+        }
+      ]
+    }
+  }
